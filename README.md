@@ -1,2 +1,2 @@
-# at-k-ayr-t-rma
+# atik-ayriştirma
 plastik ve metal şişe ayrıştırma
